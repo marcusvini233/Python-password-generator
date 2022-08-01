@@ -1,3 +1,3 @@
-# Pytho-exercises
+# Pytho-password-generator
 
-Exercise to try knowledge in python.
+Simple python password generator to train python concepts.
